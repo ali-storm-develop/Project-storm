@@ -1,3 +1,5 @@
 *.jpg
 *aa.txt
 *bb.txt
+!Taghvim.jpg
+java/
